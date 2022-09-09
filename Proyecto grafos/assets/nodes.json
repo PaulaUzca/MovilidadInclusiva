@@ -1,0 +1,18 @@
+{
+  "E": { "nombre": "Entrada", "posicion": [423.89138, 92.81478] },
+  "LC": { "nombre": "LuisACalvo", "posicion": [456.62827, 173.56299] },
+  "H": { "nombre": "Humanas", "posicion": [308.47801, 93.65721] },
+  "BB": { "nombre": "Biblioteca", "posicion": [341.33291, 328.6961] },
+  "C": { "nombre": "Centic", "posicion": [265.43733, 300.05337] },
+  "Q": { "nombre": "Quimica", "posicion": [189.61833, 292.39489] },
+  "JB": { "nombre": "JUan Bautista", "posicion": [103.8433, 265.59019] },
+  "LP": { "nombre": "Lb Pesados", "posicion": [102.31161, 333.7507] },
+  "LL": { "nombre": "Lb Livianos", "posicion": [243.61065, 192.22191] },
+  "CT": { "nombre": "Camilo Torres", "posicion": [278.15041, 246.13764] },
+  "M": { "nombre": "Mecanica", "posicion": [365.76348, 192.22191] },
+  "I": { "nombre": "Idiomas", "posicion": [364.23178, 388.12595] },
+  "D": { "nombre": "Diseno", "posicion": [285.34939, 389.65764] },
+  "L": { "nombre": "Lago", "posicion": [400, 300] },
+  "G": { "nombre": "Gallera", "posicion": [443.26734, 351.4418] },
+  "BI": { "nombre": "Bienestar", "posicion": [488.29923, 415.69649] }
+}
