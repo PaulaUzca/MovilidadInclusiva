@@ -9,7 +9,7 @@
   "LL CT": { "dificultad": 1, "distancia": 65 },
   "LL M": { "dificultad": 3, "distancia": 75 },
   "M CT": { "dificultad": 2, "distancia": 65 },
-  "BB I": { "dificultad": 100, "distancia": 55 },
+  "BB I": { "dificultad": 10, "distancia": 55 },
   "I D": { "dificultad": 3, "distancia": 38 },
   "LC L": { "dificultad": 2, "distancia": 150 },
   "G I": { "dificultad": 9, "distancia": 90 },
